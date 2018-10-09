@@ -1,0 +1,21 @@
+body {
+	text-align: center;
+}
+
+/* result and activity */
+
+.game-stats {
+	margin: 3rem auto 0 auto;
+	width: 30%;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	float: left;
+}
+
+#info-bar {
+    width: auto;
+    background-color: #ddd;
+    margin-top: 10px;
+    width: 40%;
+}
